@@ -7,4 +7,4 @@ layout: 'layouts/post.njk'
 ---
 
 # My first post
-This is First post!
+This is First post
